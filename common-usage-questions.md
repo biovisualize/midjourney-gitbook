@@ -9,7 +9,7 @@ Q: What external tools can I use for upscaling without adding details?
 A: Some users have great success with Topaz Gigapixel, Pixelmator Pro, BigJpg or ESRGAN\
 [https://www.topazlabs.com/gigapixel-ai](https://www.topazlabs.com/gigapixel-ai)\
 [https://www.pixelmator.com/support/guide/pixelmator-photo/797](https://www.pixelmator.com/support/guide/pixelmator-photo/797)\
-[https://bigjpg.com/](https://bigjpg.com/)\
+[https://bigjpg.com/](https://bigjpg.com)\
 [https://github.com/xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
 Q: How many concurrent jobs can I run? How many can I queue?
